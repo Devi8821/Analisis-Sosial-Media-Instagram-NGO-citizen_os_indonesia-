@@ -1,43 +1,39 @@
-# 📊 Instagram Data Analysis — @citizen_os_indonesia (Oct 2024–2025)
+# 📊 Instagram Analysis of NGO @citizen_os_indonesia (Oct 2024 – 2025)
 
-## 🌱 Project Overview  
-This project analyzes the social media performance of **Citizen OS Indonesia**, a non-profit organization focused on civic participation and digital democracy.  
-Using **Instagram data scraping** (period October 2024 – October 2025), the analysis explores audience growth, engagement trends, and content performance to generate **data-driven recommendations** for improving social media strategy.
-
----
-
-## 🧠 Objectives  
-- Collect Instagram post and engagement data through web scraping  
-- Perform **data cleaning, exploratory analysis, and visualization** using Jupyter Notebook  
-- Identify **top-performing content types** and key engagement drivers  
-- Develop **strategic recommendations** for future campaigns
+In the past few months, I’ve been exploring how data analytics can empower public communication — turning numbers into stories that matter.
+To do that, I conducted a social media analysis for the NGO Citizen OS Indonesia, an organization focused on digital democracy and civic participation. 
+Using Instagram scraping (JSON format), I collected and analyzed the data through Python (Jupyter Notebook) to uncover insights about public engagement, content performance, and participation trends.
 
 ---
 
-## 🛠️ Tools & Libraries  
+💡Project Objectives
+▪️ Identify content trends and engagement patterns from October 2024 to 2025
+▪️ Find the best-performing posts and most active audience hours
+▪️ Provide data-driven recommendations to improve digital outreach strategies for NGOs
+
+---
+
+🔍 Key Findings
+1. Highest engagement came from collaborative & call-to-action posts
+2. Posting activity increased ahead of public events (like Festival Aspirasi)
+3. Audience engagement peaked between 6:00–9:00 PM (WIB), especially on Thursdays and Saturdays
+4. Comment word cloud revealed key topics: volunteerism, civic voices, and community collaboration
+
+---
+
+📌 Recommendations
+▪️ Focus on participatory storytelling, not just informational posts
+▪️ Leverage prime-time hours for awareness campaigns
+▪️ Strengthen connections between online engagement and offline community events
+
+---
+
+🛠️ Tools & Libraries  
 - **Python** — core programming language  
 - **Libraries:** BeautifulSoup, Selenium, Pandas, Matplotlib, Seaborn  
 - **Environment:** Jupyter Notebook  
 - **Data visualization:** Matplotlib / Seaborn  
 - **Output format:** HTML report for presentation and documentation
-
----
-
-## 📈 Key Insights  
-- Engagement rates fluctuated during major campaigns, peaking during awareness and advocacy posts  
-- Carousel and infographic-style content received the **highest audience interaction**  
-- Posts with concise captions and strong storytelling performed better  
-- Audience growth correlated positively with consistent posting frequency  
-
-📎 *Full visualizations and metrics can be found in the HTML report (`Analisis Sosmed COS.html`)*
-
----
-
-## 💡 Strategic Recommendations  
-- Maintain consistent posting (3–4 times/week) to improve visibility and engagement  
-- Strengthen storytelling and brand visual identity in carousel content  
-- Optimize caption structure with emotional hooks and clear calls-to-action  
-- Repurpose top-performing content formats for advocacy campaigns  
 
 ---
 
