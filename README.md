@@ -41,16 +41,6 @@ Using **Instagram data scraping** (period October 2024 – October 2025), the an
 
 ---
 
-## 📂 Files in This Repository  
-
-| File | Description |
-|------|--------------|
-| `scraping_instagram.ipynb` | Code for scraping Instagram posts and engagement data |
-| `data_analysis.ipynb` | Data cleaning, visualization, and trend analysis |
-| `Analisis Sosmed COS.html` | Full HTML report with insights and recommendations |
-
----
-
 ## 👩‍💻 Author  
 **Devi Aulia Oktaviona**
 🎓 Public Relations graduate | 📈 Aspiring Data Analyst | ❤️ Passionate about data-driven storytelling  
